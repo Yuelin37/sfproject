@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/generator/skeleton/app/app/config
+END
+routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/generator/skeleton/app/app/config/routing.yml
+END
+factories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/generator/skeleton/app/app/config/factories.yml
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/generator/skeleton/app/app/config/filters.yml
+END
+ApplicationConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/generator/skeleton/app/app/config/ApplicationConfiguration.class.php
+END
+security.yml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/generator/skeleton/app/app/config/security.yml
+END
+app.yml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/generator/skeleton/app/app/config/app.yml
+END
+cache.yml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/generator/skeleton/app/app/config/cache.yml
+END
+settings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/generator/skeleton/app/app/config/settings.yml
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/generator/skeleton/app/app/config/view.yml
+END

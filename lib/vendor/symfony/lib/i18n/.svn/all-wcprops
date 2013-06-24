@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/i18n
+END
+sfMessageSource_File.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/i18n/sfMessageSource_File.class.php
+END
+sfIMessageSource.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/i18n/sfIMessageSource.class.php
+END
+sfMessageSource.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/i18n/sfMessageSource.class.php
+END
+sfMessageSource_Aggregate.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/i18n/sfMessageSource_Aggregate.class.php
+END
+sfI18N.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/i18n/sfI18N.class.php
+END
+sfMessageSource_MySQL.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/i18n/sfMessageSource_MySQL.class.php
+END
+sfNumberFormat.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/i18n/sfNumberFormat.class.php
+END
+sfMessageSource_gettext.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/i18n/sfMessageSource_gettext.class.php
+END
+sfDateTimeFormatInfo.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/i18n/sfDateTimeFormatInfo.class.php
+END
+sfDateFormat.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/i18n/sfDateFormat.class.php
+END
+sfMessageSource_SQLite.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/i18n/sfMessageSource_SQLite.class.php
+END
+sfNumberFormatInfo.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/i18n/sfNumberFormatInfo.class.php
+END
+sfMessageSource_XLIFF.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/i18n/sfMessageSource_XLIFF.class.php
+END
+sfCultureInfo.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/i18n/sfCultureInfo.class.php
+END
+sfMessageFormat.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/i18n/sfMessageFormat.class.php
+END
+sfChoiceFormat.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/i18n/sfChoiceFormat.class.php
+END
+sfMessageSource_Database.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/i18n/sfMessageSource_Database.class.php
+END

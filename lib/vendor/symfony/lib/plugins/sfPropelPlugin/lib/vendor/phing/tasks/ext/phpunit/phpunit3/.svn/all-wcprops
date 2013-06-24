@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/phpunit/phpunit3
+END
+PHPUnit3ResultFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/phpunit/phpunit3/PHPUnit3ResultFormatter.php
+END
+PlainPHPUnit3ResultFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/phpunit/phpunit3/PlainPHPUnit3ResultFormatter.php
+END
+XMLPHPUnit3ResultFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/phpunit/phpunit3/XMLPHPUnit3ResultFormatter.php
+END
+SummaryPHPUnit3ResultFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/phpunit/phpunit3/SummaryPHPUnit3ResultFormatter.php
+END

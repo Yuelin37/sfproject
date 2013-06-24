@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/project/validation
+END
+sfValidation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/project/validation/sfValidation.class.php
+END
+sfDeprecatedConfigurationFilesValidation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/project/validation/sfDeprecatedConfigurationFilesValidation.class.php
+END
+sfDeprecatedSettingsValidation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/project/validation/sfDeprecatedSettingsValidation.class.php
+END
+sfDeprecatedPluginsValidation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/project/validation/sfDeprecatedPluginsValidation.class.php
+END
+sfDeprecatedMethodsValidation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/project/validation/sfDeprecatedMethodsValidation.class.php
+END
+sfDeprecatedHelpersValidation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/project/validation/sfDeprecatedHelpersValidation.class.php
+END
+sfDeprecatedClassesValidation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/project/validation/sfDeprecatedClassesValidation.class.php
+END
+sfParameterHolderValidation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/project/validation/sfParameterHolderValidation.class.php
+END

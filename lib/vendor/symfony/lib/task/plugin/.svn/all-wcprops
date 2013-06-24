@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/plugin
+END
+sfPluginBaseTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/plugin/sfPluginBaseTask.class.php
+END
+sfPluginAddChannelTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/plugin/sfPluginAddChannelTask.class.php
+END
+sfPluginPublishAssetsTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/plugin/sfPluginPublishAssetsTask.class.php
+END
+sfPluginUninstallTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/plugin/sfPluginUninstallTask.class.php
+END
+sfPluginListTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/plugin/sfPluginListTask.class.php
+END
+sfPluginInstallTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/plugin/sfPluginInstallTask.class.php
+END
+sfPluginUpgradeTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/plugin/sfPluginUpgradeTask.class.php
+END

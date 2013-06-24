@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/user
+END
+sfUser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/user/sfUser.class.php
+END
+sfSecurityUser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/user/sfSecurityUser.class.php
+END
+sfBasicSecurityUser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/user/sfBasicSecurityUser.class.php
+END

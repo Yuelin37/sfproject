@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional
+END
+formTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/formTest.php
+END
+poolingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/poolingTest.php
+END
+i18nTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/i18nTest.php
+END
+pagerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/pagerTest.php
+END

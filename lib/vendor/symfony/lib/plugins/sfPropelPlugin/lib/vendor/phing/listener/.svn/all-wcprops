@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/listener
+END
+XmlLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/listener/XmlLogger.php
+END
+NoBannerLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/listener/NoBannerLogger.php
+END
+StreamRequiredBuildLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/listener/StreamRequiredBuildLogger.php
+END
+AnsiColorLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/listener/AnsiColorLogger.php
+END
+DefaultLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/listener/DefaultLogger.php
+END
+PearLogListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/listener/PearLogListener.php
+END
+defaults.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/listener/defaults.properties
+END

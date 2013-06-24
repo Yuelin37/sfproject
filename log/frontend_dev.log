@@ -1,0 +1,403 @@
+Jun 21 14:02:50 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jun 21 14:02:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 21 14:02:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 21 14:02:50 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jun 21 14:02:50 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Jun 21 14:02:50 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Jun 21 14:02:50 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Jun 21 14:02:50 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 21 14:02:50 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 21 14:02:50 symfony [info] {sfWebDebugLogger} Configuration 205.27 ms (9)
+Jun 21 14:02:50 symfony [info] {sfWebDebugLogger} Factories 92.27 ms (1)
+Jun 21 14:02:50 symfony [info] {sfWebDebugLogger} Action "default/index" 0.08 ms (1)
+Jun 21 14:02:50 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 24.82 ms (1)
+Jun 21 14:02:50 symfony [info] {sfWebResponse} Send content (31143 o)
+Jun 21 14:05:14 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jun 21 14:05:14 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 21 14:05:14 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 21 14:05:14 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jun 21 14:05:14 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Jun 21 14:05:14 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Jun 21 14:05:14 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Jun 21 14:05:14 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 21 14:05:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 21 14:05:14 symfony [info] {sfWebDebugLogger} Configuration 17.74 ms (9)
+Jun 21 14:05:14 symfony [info] {sfWebDebugLogger} Factories 43.38 ms (1)
+Jun 21 14:05:14 symfony [info] {sfWebDebugLogger} Action "default/index" 0.08 ms (1)
+Jun 21 14:05:14 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 16.87 ms (1)
+Jun 21 14:05:14 symfony [info] {sfWebResponse} Send content (31143 o)
+Jun 21 14:05:43 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/index with parameters array (  'module' => 'content',  'action' => 'index',)
+Jun 21 14:05:43 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 21 14:05:43 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 21 14:05:43 symfony [info] {contentActions} Call "contentActions->executeIndex()"
+Jun 21 14:05:43 symfony [info] {contentActions} Forward to action "default/module"
+Jun 21 14:05:43 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 21 14:05:43 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 21 14:05:43 symfony [info] {defaultActions} Call "defaultActions->executeModule()"
+Jun 21 14:05:43 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\lib\vendor\symfony\lib/controller/default/templates/moduleSuccess.php"
+Jun 21 14:05:43 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Jun 21 14:05:43 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Jun 21 14:05:43 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 21 14:05:43 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 21 14:05:43 symfony [info] {sfWebDebugLogger} Configuration 57.06 ms (13)
+Jun 21 14:05:43 symfony [info] {sfWebDebugLogger} Factories 40.81 ms (1)
+Jun 21 14:05:43 symfony [info] {sfWebDebugLogger} Action "content/index" 25.84 ms (1)
+Jun 21 14:05:43 symfony [info] {sfWebDebugLogger} Action "default/module" 0.07 ms (1)
+Jun 21 14:05:43 symfony [info] {sfWebDebugLogger} View "Success" for "default/module" 15.41 ms (1)
+Jun 21 14:05:43 symfony [info] {sfWebResponse} Send content (33166 o)
+Jun 21 14:05:44 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/index with parameters array (  'module' => 'content',  'action' => 'index',)
+Jun 21 14:05:44 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 21 14:05:44 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 21 14:05:44 symfony [info] {contentActions} Call "contentActions->executeIndex()"
+Jun 21 14:05:44 symfony [info] {contentActions} Forward to action "default/module"
+Jun 21 14:05:44 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 21 14:05:44 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 21 14:05:44 symfony [info] {defaultActions} Call "defaultActions->executeModule()"
+Jun 21 14:05:44 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\lib\vendor\symfony\lib/controller/default/templates/moduleSuccess.php"
+Jun 21 14:05:44 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Jun 21 14:05:44 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Jun 21 14:05:44 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 21 14:05:44 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 21 14:05:44 symfony [info] {sfWebDebugLogger} Configuration 17.69 ms (12)
+Jun 21 14:05:44 symfony [info] {sfWebDebugLogger} Factories 46.32 ms (1)
+Jun 21 14:05:44 symfony [info] {sfWebDebugLogger} Action "content/index" 15.67 ms (1)
+Jun 21 14:05:44 symfony [info] {sfWebDebugLogger} Action "default/module" 0.07 ms (1)
+Jun 21 14:05:44 symfony [info] {sfWebDebugLogger} View "Success" for "default/module" 9.40 ms (1)
+Jun 21 14:05:44 symfony [info] {sfWebResponse} Send content (33166 o)
+Jun 21 14:09:02 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/show with parameters array (  'module' => 'content',  'action' => 'show',)
+Jun 21 14:09:02 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 21 14:09:02 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 21 14:09:02 symfony [info] {contentActions} Call "contentActions->executeShow()"
+Jun 21 14:09:02 symfony [err] {sfRenderException} The template "showSuccess.php" does not exist or is unreadable in "".
+Jun 21 14:09:02 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 21 14:09:02 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 21 14:09:02 symfony [info] {sfWebDebugLogger} Configuration 36.85 ms (10)
+Jun 21 14:09:02 symfony [info] {sfWebDebugLogger} Factories 39.36 ms (1)
+Jun 21 14:09:02 symfony [info] {sfWebDebugLogger} Action "content/show" 0.07 ms (1)
+Jun 21 14:09:02 symfony [info] {sfWebDebugLogger} View "Success" for "content/show" 55.90 ms (1)
+Jun 24 03:52:44 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jun 24 03:52:44 symfony [info] {myUser} Automatic user logout due to timeout
+Jun 24 03:52:44 symfony [info] {myUser} User is not authenticated
+Jun 24 03:52:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 03:52:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 03:52:45 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jun 24 03:52:45 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Jun 24 03:52:45 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Jun 24 03:52:45 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Jun 24 03:52:45 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 03:52:45 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 03:52:45 symfony [info] {sfWebDebugLogger} Configuration 51.89 ms (9)
+Jun 24 03:52:45 symfony [info] {sfWebDebugLogger} Factories 861.30 ms (1)
+Jun 24 03:52:45 symfony [info] {sfWebDebugLogger} Action "default/index" 0.08 ms (1)
+Jun 24 03:52:45 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 190.75 ms (1)
+Jun 24 03:52:45 symfony [info] {sfWebResponse} Send content (32103 o)
+Jun 24 03:52:49 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/index with parameters array (  'module' => 'content',  'action' => 'index',)
+Jun 24 03:52:49 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 03:52:49 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 03:52:49 symfony [info] {contentActions} Call "contentActions->executeIndex()"
+Jun 24 03:52:49 symfony [info] {contentActions} Forward to action "default/module"
+Jun 24 03:52:49 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 03:52:49 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 03:52:49 symfony [info] {defaultActions} Call "defaultActions->executeModule()"
+Jun 24 03:52:49 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\lib\vendor\symfony\lib/controller/default/templates/moduleSuccess.php"
+Jun 24 03:52:49 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Jun 24 03:52:49 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Jun 24 03:52:49 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 03:52:49 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 03:52:49 symfony [info] {sfWebDebugLogger} Configuration 23.40 ms (12)
+Jun 24 03:52:49 symfony [info] {sfWebDebugLogger} Factories 47.46 ms (1)
+Jun 24 03:52:49 symfony [info] {sfWebDebugLogger} Action "content/index" 39.58 ms (1)
+Jun 24 03:52:49 symfony [info] {sfWebDebugLogger} Action "default/module" 0.08 ms (1)
+Jun 24 03:52:49 symfony [info] {sfWebDebugLogger} View "Success" for "default/module" 27.47 ms (1)
+Jun 24 03:52:49 symfony [info] {sfWebResponse} Send content (33418 o)
+Jun 24 03:52:52 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/show with parameters array (  'module' => 'content',  'action' => 'show',)
+Jun 24 03:52:52 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 03:52:52 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 03:52:52 symfony [info] {contentActions} Call "contentActions->executeShow()"
+Jun 24 03:52:52 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/showSuccess.php"
+Jun 24 03:52:52 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 03:52:52 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 03:52:52 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 03:52:52 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 03:52:52 symfony [info] {sfWebDebugLogger} Configuration 15.51 ms (9)
+Jun 24 03:52:52 symfony [info] {sfWebDebugLogger} Factories 45.19 ms (1)
+Jun 24 03:52:52 symfony [info] {sfWebDebugLogger} Action "content/show" 0.08 ms (1)
+Jun 24 03:52:52 symfony [info] {sfWebDebugLogger} View "Success" for "content/show" 29.55 ms (1)
+Jun 24 03:52:52 symfony [info] {sfWebResponse} Send content (29727 o)
+Jun 24 03:52:55 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/show with parameters array (  'module' => 'content',  'action' => 'show',)
+Jun 24 03:52:55 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 03:52:55 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 03:52:55 symfony [info] {contentActions} Call "contentActions->executeShow()"
+Jun 24 03:52:55 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/showSuccess.php"
+Jun 24 03:52:55 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 03:52:55 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 03:52:55 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 03:52:55 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 03:52:55 symfony [info] {sfWebDebugLogger} Configuration 17.57 ms (9)
+Jun 24 03:52:55 symfony [info] {sfWebDebugLogger} Factories 46.09 ms (1)
+Jun 24 03:52:55 symfony [info] {sfWebDebugLogger} Action "content/show" 0.12 ms (1)
+Jun 24 03:52:55 symfony [info] {sfWebDebugLogger} View "Success" for "content/show" 20.33 ms (1)
+Jun 24 03:52:55 symfony [info] {sfWebResponse} Send content (29759 o)
+Jun 24 03:52:56 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/show with parameters array (  'module' => 'content',  'action' => 'show',)
+Jun 24 03:52:56 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 03:52:56 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 03:52:56 symfony [info] {contentActions} Call "contentActions->executeShow()"
+Jun 24 03:52:56 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/showSuccess.php"
+Jun 24 03:52:56 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 03:52:56 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 03:52:56 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 03:52:56 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 03:52:56 symfony [info] {sfWebDebugLogger} Configuration 27.49 ms (9)
+Jun 24 03:52:56 symfony [info] {sfWebDebugLogger} Factories 49.69 ms (1)
+Jun 24 03:52:56 symfony [info] {sfWebDebugLogger} Action "content/show" 0.08 ms (1)
+Jun 24 03:52:56 symfony [info] {sfWebDebugLogger} View "Success" for "content/show" 25.10 ms (1)
+Jun 24 03:52:56 symfony [info] {sfWebResponse} Send content (29758 o)
+Jun 24 03:52:59 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/show with parameters array (  'module' => 'content',  'action' => 'show',)
+Jun 24 03:52:59 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 03:52:59 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 03:52:59 symfony [info] {contentActions} Call "contentActions->executeShow()"
+Jun 24 03:52:59 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/showSuccess.php"
+Jun 24 03:52:59 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 03:52:59 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 03:52:59 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 03:52:59 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 03:52:59 symfony [info] {sfWebDebugLogger} Configuration 30.04 ms (9)
+Jun 24 03:52:59 symfony [info] {sfWebDebugLogger} Factories 48.20 ms (1)
+Jun 24 03:52:59 symfony [info] {sfWebDebugLogger} Action "content/show" 0.08 ms (1)
+Jun 24 03:52:59 symfony [info] {sfWebDebugLogger} View "Success" for "content/show" 25.34 ms (1)
+Jun 24 03:52:59 symfony [info] {sfWebResponse} Send content (29758 o)
+Jun 24 03:54:51 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/show with parameters array (  'module' => 'content',  'action' => 'show',)
+Jun 24 03:54:51 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 03:54:51 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 03:54:51 symfony [info] {contentActions} Call "contentActions->executeShow()"
+Jun 24 03:54:51 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/showSuccess.php"
+Jun 24 03:54:51 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 03:54:51 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 03:54:51 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 03:54:51 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 03:54:51 symfony [info] {sfWebDebugLogger} Configuration 31.52 ms (9)
+Jun 24 03:54:51 symfony [info] {sfWebDebugLogger} Factories 50.50 ms (1)
+Jun 24 03:54:51 symfony [info] {sfWebDebugLogger} Action "content/show" 0.08 ms (1)
+Jun 24 03:54:51 symfony [info] {sfWebDebugLogger} View "Success" for "content/show" 26.32 ms (1)
+Jun 24 03:54:51 symfony [info] {sfWebResponse} Send content (29763 o)
+Jun 24 03:56:26 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/show with parameters array (  'module' => 'content',  'action' => 'show',)
+Jun 24 03:56:26 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 03:56:26 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 03:56:26 symfony [info] {contentActions} Call "contentActions->executeShow()"
+Jun 24 03:56:26 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/showSuccess.php"
+Jun 24 03:56:26 symfony [notice] {sfWebDebugLogger}  Notice at C:\Users\ylyan\workspace\sfproject\apps\frontend\modules\content\templates\showSuccess.php on line 5 (Undefined variable: test)
+Jun 24 03:56:26 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 03:56:26 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 03:56:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 03:56:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 03:56:26 symfony [info] {sfWebDebugLogger} Configuration 31.45 ms (9)
+Jun 24 03:56:26 symfony [info] {sfWebDebugLogger} Factories 48.36 ms (1)
+Jun 24 03:56:26 symfony [info] {sfWebDebugLogger} Action "content/show" 0.08 ms (1)
+Jun 24 03:56:26 symfony [info] {sfWebDebugLogger} View "Success" for "content/show" 31.99 ms (1)
+Jun 24 03:56:26 symfony [info] {sfWebResponse} Send content (29953 o)
+Jun 24 03:57:59 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/show with parameters array (  'module' => 'content',  'action' => 'show',)
+Jun 24 03:57:59 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 03:57:59 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 03:57:59 symfony [info] {contentActions} Call "contentActions->executeShow()"
+Jun 24 03:57:59 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/showSuccess.php"
+Jun 24 03:57:59 symfony [notice] {sfWebDebugLogger}  Notice at C:\Users\ylyan\workspace\sfproject\apps\frontend\modules\content\templates\showSuccess.php on line 2 (Undefined variable: test)
+Jun 24 03:57:59 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 03:57:59 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 03:57:59 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 03:57:59 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 03:57:59 symfony [info] {sfWebDebugLogger} Configuration 18.47 ms (9)
+Jun 24 03:57:59 symfony [info] {sfWebDebugLogger} Factories 40.87 ms (1)
+Jun 24 03:57:59 symfony [info] {sfWebDebugLogger} Action "content/show" 0.07 ms (1)
+Jun 24 03:57:59 symfony [info] {sfWebDebugLogger} View "Success" for "content/show" 24.93 ms (1)
+Jun 24 03:57:59 symfony [info] {sfWebResponse} Send content (29953 o)
+Jun 24 03:58:02 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/show with parameters array (  'module' => 'content',  'action' => 'show',)
+Jun 24 03:58:02 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 03:58:02 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 03:58:02 symfony [info] {contentActions} Call "contentActions->executeShow()"
+Jun 24 03:58:02 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/showSuccess.php"
+Jun 24 03:58:02 symfony [notice] {sfWebDebugLogger}  Notice at C:\Users\ylyan\workspace\sfproject\apps\frontend\modules\content\templates\showSuccess.php on line 2 (Undefined variable: test)
+Jun 24 03:58:02 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 03:58:02 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 03:58:02 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 03:58:02 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 03:58:02 symfony [info] {sfWebDebugLogger} Configuration 26.84 ms (9)
+Jun 24 03:58:02 symfony [info] {sfWebDebugLogger} Factories 43.95 ms (1)
+Jun 24 03:58:02 symfony [info] {sfWebDebugLogger} Action "content/show" 0.08 ms (1)
+Jun 24 03:58:02 symfony [info] {sfWebDebugLogger} View "Success" for "content/show" 21.20 ms (1)
+Jun 24 03:58:02 symfony [info] {sfWebResponse} Send content (29953 o)
+Jun 24 04:11:27 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/show with parameters array (  'module' => 'content',  'action' => 'show',)
+Jun 24 04:11:27 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 04:11:27 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 04:11:27 symfony [info] {contentActions} Call "contentActions->executeShow()"
+Jun 24 04:11:27 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/showSuccess.php"
+Jun 24 04:11:27 symfony [notice] {sfWebDebugLogger}  Notice at C:\Users\ylyan\workspace\sfproject\apps\frontend\modules\content\templates\showSuccess.php on line 2 (Undefined variable: test)
+Jun 24 04:11:27 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:11:27 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:11:27 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 04:11:27 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 04:11:27 symfony [info] {sfWebDebugLogger} Configuration 21.36 ms (9)
+Jun 24 04:11:27 symfony [info] {sfWebDebugLogger} Factories 42.69 ms (1)
+Jun 24 04:11:27 symfony [info] {sfWebDebugLogger} Action "content/show" 0.19 ms (1)
+Jun 24 04:11:27 symfony [info] {sfWebDebugLogger} View "Success" for "content/show" 27.93 ms (1)
+Jun 24 04:11:27 symfony [info] {sfWebResponse} Send content (30010 o)
+Jun 24 04:12:40 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/show with parameters array (  'module' => 'content',  'action' => 'show',)
+Jun 24 04:12:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 04:12:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 04:12:41 symfony [info] {contentActions} Call "contentActions->executeShow()"
+Jun 24 04:12:41 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/showSuccess.php"
+Jun 24 04:12:41 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:12:41 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:12:41 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 04:12:41 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 04:12:41 symfony [info] {sfWebDebugLogger} Configuration 19.98 ms (9)
+Jun 24 04:12:41 symfony [info] {sfWebDebugLogger} Factories 42.05 ms (1)
+Jun 24 04:12:41 symfony [info] {sfWebDebugLogger} Action "content/show" 0.09 ms (1)
+Jun 24 04:12:41 symfony [info] {sfWebDebugLogger} View "Success" for "content/show" 19.41 ms (1)
+Jun 24 04:12:41 symfony [info] {sfWebResponse} Send content (29836 o)
+Jun 24 04:12:55 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/show with parameters array (  'module' => 'content',  'action' => 'show',)
+Jun 24 04:12:55 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 04:12:55 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 04:12:55 symfony [info] {contentActions} Call "contentActions->executeShow()"
+Jun 24 04:12:55 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/showSuccess.php"
+Jun 24 04:12:55 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:12:55 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:12:55 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 04:12:55 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 04:12:55 symfony [info] {sfWebDebugLogger} Configuration 19.45 ms (9)
+Jun 24 04:12:55 symfony [info] {sfWebDebugLogger} Factories 39.97 ms (1)
+Jun 24 04:12:55 symfony [info] {sfWebDebugLogger} Action "content/show" 0.09 ms (1)
+Jun 24 04:12:55 symfony [info] {sfWebDebugLogger} View "Success" for "content/show" 18.82 ms (1)
+Jun 24 04:12:55 symfony [info] {sfWebResponse} Send content (29838 o)
+Jun 24 04:12:57 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/show with parameters array (  'module' => 'content',  'action' => 'show',)
+Jun 24 04:12:57 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 04:12:57 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 04:12:57 symfony [info] {contentActions} Call "contentActions->executeShow()"
+Jun 24 04:12:57 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/showSuccess.php"
+Jun 24 04:12:57 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:12:57 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:12:57 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 04:12:57 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 04:12:57 symfony [info] {sfWebDebugLogger} Configuration 22.89 ms (9)
+Jun 24 04:12:57 symfony [info] {sfWebDebugLogger} Factories 43.07 ms (1)
+Jun 24 04:12:57 symfony [info] {sfWebDebugLogger} Action "content/show" 0.09 ms (1)
+Jun 24 04:12:57 symfony [info] {sfWebDebugLogger} View "Success" for "content/show" 20.39 ms (1)
+Jun 24 04:12:57 symfony [info] {sfWebResponse} Send content (29838 o)
+Jun 24 04:12:58 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/show with parameters array (  'module' => 'content',  'action' => 'show',)
+Jun 24 04:12:58 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 04:12:58 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 04:12:58 symfony [info] {contentActions} Call "contentActions->executeShow()"
+Jun 24 04:12:58 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/showSuccess.php"
+Jun 24 04:12:58 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:12:58 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:12:58 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 04:12:58 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 04:12:58 symfony [info] {sfWebDebugLogger} Configuration 22.11 ms (9)
+Jun 24 04:12:58 symfony [info] {sfWebDebugLogger} Factories 41.76 ms (1)
+Jun 24 04:12:58 symfony [info] {sfWebDebugLogger} Action "content/show" 0.09 ms (1)
+Jun 24 04:12:58 symfony [info] {sfWebDebugLogger} View "Success" for "content/show" 19.97 ms (1)
+Jun 24 04:12:58 symfony [info] {sfWebResponse} Send content (29838 o)
+Jun 24 04:12:59 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/show with parameters array (  'module' => 'content',  'action' => 'show',)
+Jun 24 04:12:59 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 04:12:59 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 04:12:59 symfony [info] {contentActions} Call "contentActions->executeShow()"
+Jun 24 04:12:59 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/showSuccess.php"
+Jun 24 04:12:59 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:12:59 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:12:59 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 04:12:59 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 04:12:59 symfony [info] {sfWebDebugLogger} Configuration 25.90 ms (9)
+Jun 24 04:12:59 symfony [info] {sfWebDebugLogger} Factories 43.49 ms (1)
+Jun 24 04:12:59 symfony [info] {sfWebDebugLogger} Action "content/show" 0.09 ms (1)
+Jun 24 04:12:59 symfony [info] {sfWebDebugLogger} View "Success" for "content/show" 19.72 ms (1)
+Jun 24 04:12:59 symfony [info] {sfWebResponse} Send content (29838 o)
+Jun 24 04:13:34 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/show with parameters array (  'module' => 'content',  'action' => 'show',)
+Jun 24 04:13:34 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 04:13:34 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 04:13:34 symfony [info] {contentActions} Call "contentActions->executeShow()"
+Jun 24 04:13:34 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/showSuccess.php"
+Jun 24 04:13:34 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:13:34 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:13:34 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 04:13:34 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 04:13:34 symfony [info] {sfWebDebugLogger} Configuration 18.95 ms (9)
+Jun 24 04:13:34 symfony [info] {sfWebDebugLogger} Factories 41.42 ms (1)
+Jun 24 04:13:34 symfony [info] {sfWebDebugLogger} Action "content/show" 0.09 ms (1)
+Jun 24 04:13:34 symfony [info] {sfWebDebugLogger} View "Success" for "content/show" 20.27 ms (1)
+Jun 24 04:13:34 symfony [info] {sfWebResponse} Send content (29852 o)
+Jun 24 04:14:16 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/show with parameters array (  'module' => 'content',  'action' => 'show',)
+Jun 24 04:14:16 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 04:14:16 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 04:14:16 symfony [info] {contentActions} Call "contentActions->executeShow()"
+Jun 24 04:14:16 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/showSuccess.php"
+Jun 24 04:14:16 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:14:16 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:14:16 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 04:14:16 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 04:14:16 symfony [info] {sfWebDebugLogger} Configuration 18.02 ms (9)
+Jun 24 04:14:16 symfony [info] {sfWebDebugLogger} Factories 40.96 ms (1)
+Jun 24 04:14:16 symfony [info] {sfWebDebugLogger} Action "content/show" 0.13 ms (1)
+Jun 24 04:14:16 symfony [info] {sfWebDebugLogger} View "Success" for "content/show" 20.68 ms (1)
+Jun 24 04:14:16 symfony [info] {sfWebResponse} Send content (29839 o)
+Jun 24 04:14:20 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/show with parameters array (  'module' => 'content',  'action' => 'show',)
+Jun 24 04:14:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 04:14:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 04:14:20 symfony [info] {contentActions} Call "contentActions->executeShow()"
+Jun 24 04:14:20 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/showSuccess.php"
+Jun 24 04:14:20 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:14:20 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:14:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 04:14:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 04:14:20 symfony [info] {sfWebDebugLogger} Configuration 23.21 ms (9)
+Jun 24 04:14:20 symfony [info] {sfWebDebugLogger} Factories 42.93 ms (1)
+Jun 24 04:14:20 symfony [info] {sfWebDebugLogger} Action "content/show" 0.09 ms (1)
+Jun 24 04:14:20 symfony [info] {sfWebDebugLogger} View "Success" for "content/show" 19.76 ms (1)
+Jun 24 04:14:20 symfony [info] {sfWebResponse} Send content (29839 o)
+Jun 24 04:14:21 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/show with parameters array (  'module' => 'content',  'action' => 'show',)
+Jun 24 04:14:21 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 04:14:21 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 04:14:21 symfony [info] {contentActions} Call "contentActions->executeShow()"
+Jun 24 04:14:21 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/showSuccess.php"
+Jun 24 04:14:21 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:14:21 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:14:21 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 04:14:21 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 04:14:21 symfony [info] {sfWebDebugLogger} Configuration 19.94 ms (9)
+Jun 24 04:14:21 symfony [info] {sfWebDebugLogger} Factories 40.09 ms (1)
+Jun 24 04:14:21 symfony [info] {sfWebDebugLogger} Action "content/show" 0.10 ms (1)
+Jun 24 04:14:21 symfony [info] {sfWebDebugLogger} View "Success" for "content/show" 17.89 ms (1)
+Jun 24 04:14:21 symfony [info] {sfWebResponse} Send content (29839 o)
+Jun 24 04:31:43 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/show with parameters array (  'module' => 'content',  'action' => 'show',)
+Jun 24 04:31:43 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 04:31:43 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 04:31:43 symfony [info] {contentActions} Call "contentActions->executeShow()"
+Jun 24 04:31:43 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/showSuccess.php"
+Jun 24 04:31:43 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:31:43 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:31:43 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 04:31:43 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 04:31:43 symfony [info] {sfWebDebugLogger} Configuration 19.29 ms (9)
+Jun 24 04:31:43 symfony [info] {sfWebDebugLogger} Factories 82.37 ms (1)
+Jun 24 04:31:43 symfony [info] {sfWebDebugLogger} Action "content/show" 0.09 ms (1)
+Jun 24 04:31:43 symfony [info] {sfWebDebugLogger} View "Success" for "content/show" 20.84 ms (1)
+Jun 24 04:31:43 symfony [info] {sfWebResponse} Send content (30133 o)
+Jun 24 04:31:56 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/update with parameters array (  'module' => 'content',  'action' => 'update',)
+Jun 24 04:31:56 symfony [info] {sfFrontWebController} Action "content/update" does not exist
+Jun 24 04:31:56 symfony [err] {sfError404Exception} Action "content/update" does not exist.
+Jun 24 04:31:56 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Jun 24 04:31:56 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 04:31:56 symfony [info] {sfWebDebugLogger} Configuration 9.75 ms (5)
+Jun 24 04:31:56 symfony [info] {sfWebDebugLogger} Factories 70.31 ms (1)
+Jun 24 04:32:20 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/show with parameters array (  'module' => 'content',  'action' => 'show',)
+Jun 24 04:32:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 04:32:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 04:32:20 symfony [info] {contentActions} Call "contentActions->executeShow()"
+Jun 24 04:32:20 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/showSuccess.php"
+Jun 24 04:32:20 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:32:20 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:32:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 04:32:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 04:32:20 symfony [info] {sfWebDebugLogger} Configuration 20.31 ms (9)
+Jun 24 04:32:20 symfony [info] {sfWebDebugLogger} Factories 119.09 ms (1)
+Jun 24 04:32:20 symfony [info] {sfWebDebugLogger} Action "content/show" 0.08 ms (1)
+Jun 24 04:32:20 symfony [info] {sfWebDebugLogger} View "Success" for "content/show" 63.16 ms (1)
+Jun 24 04:32:20 symfony [info] {sfWebResponse} Send content (30102 o)

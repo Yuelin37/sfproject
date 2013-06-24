@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/i18n/extract
+END
+sfI18nYamlExtractor.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/i18n/extract/sfI18nYamlExtractor.class.php
+END
+sfI18nPhpExtractor.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/i18n/extract/sfI18nPhpExtractor.class.php
+END
+sfI18nExtract.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/i18n/extract/sfI18nExtract.class.php
+END
+sfI18nApplicationExtract.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/i18n/extract/sfI18nApplicationExtract.class.php
+END
+sfI18nModuleExtract.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/i18n/extract/sfI18nModuleExtract.class.php
+END
+sfI18nExtractorInterface.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/i18n/extract/sfI18nExtractorInterface.class.php
+END
+sfI18nYamlValidateExtractor.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/i18n/extract/sfI18nYamlValidateExtractor.class.php
+END
+sfI18nYamlGeneratorExtractor.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/i18n/extract/sfI18nYamlGeneratorExtractor.class.php
+END

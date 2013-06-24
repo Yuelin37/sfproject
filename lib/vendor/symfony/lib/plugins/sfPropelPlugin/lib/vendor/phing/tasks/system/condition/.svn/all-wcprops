@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition
+END
+OsCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/OsCondition.php
+END
+NotCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/NotCondition.php
+END
+OrCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/OrCondition.php
+END
+Condition.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/Condition.php
+END
+ConditionBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/ConditionBase.php
+END
+EqualsCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/EqualsCondition.php
+END
+ContainsCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/ContainsCondition.php
+END
+IsFalseCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/IsFalseCondition.php
+END
+IsSetCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/IsSetCondition.php
+END
+IsTrueCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/IsTrueCondition.php
+END
+AndCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/AndCondition.php
+END
+ReferenceExistsCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/ReferenceExistsCondition.php
+END

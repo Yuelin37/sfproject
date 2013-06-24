@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/functional/fixtures/plugins/sfAutoloadPlugin/lib/vendor
+END
+ExcludedFromAutoload.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/functional/fixtures/plugins/sfAutoloadPlugin/lib/vendor/ExcludedFromAutoload.class.php
+END

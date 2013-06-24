@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/cache
+END
+sfNoCache.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/cache/sfNoCache.class.php
+END
+sfCache.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/cache/sfCache.class.php
+END
+sfAPCCache.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/cache/sfAPCCache.class.php
+END
+sfMemcacheCache.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/cache/sfMemcacheCache.class.php
+END
+sfFileCache.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/cache/sfFileCache.class.php
+END
+sfSQLiteCache.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/cache/sfSQLiteCache.class.php
+END
+sfXCacheCache.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/cache/sfXCacheCache.class.php
+END
+sfFunctionCache.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/cache/sfFunctionCache.class.php
+END
+sfEAcceleratorCache.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/cache/sfEAcceleratorCache.class.php
+END

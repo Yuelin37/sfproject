@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Tree
+END
+AdjacencyList.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Tree/AdjacencyList.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Tree/Interface.php
+END
+NestedSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Tree/NestedSet.php
+END
+MaterializedPath.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Tree/MaterializedPath.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Tree/Exception.php
+END

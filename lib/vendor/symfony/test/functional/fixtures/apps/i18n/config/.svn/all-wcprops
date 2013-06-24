@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/functional/fixtures/apps/i18n/config
+END
+routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/functional/fixtures/apps/i18n/config/routing.yml
+END
+factories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/functional/fixtures/apps/i18n/config/factories.yml
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/functional/fixtures/apps/i18n/config/filters.yml
+END
+security.yml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/functional/fixtures/apps/i18n/config/security.yml
+END
+app.yml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/functional/fixtures/apps/i18n/config/app.yml
+END
+i18nConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/functional/fixtures/apps/i18n/config/i18nConfiguration.class.php
+END
+cache.yml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/functional/fixtures/apps/i18n/config/cache.yml
+END
+settings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/functional/fixtures/apps/i18n/config/settings.yml
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/functional/fixtures/apps/i18n/config/view.yml
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/project
+END
+sfProjectEnableTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/project/sfProjectEnableTask.class.php
+END
+sfProjectValidateTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/project/sfProjectValidateTask.class.php
+END
+sfProjectDeployTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/project/sfProjectDeployTask.class.php
+END
+sfProjectPermissionsTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/project/sfProjectPermissionsTask.class.php
+END
+sfProjectClearControllersTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/project/sfProjectClearControllersTask.class.php
+END
+sfProjectDisableTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/project/sfProjectDisableTask.class.php
+END
+sfProjectOptimizeTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/project/sfProjectOptimizeTask.class.php
+END
+sfProjectSendEmailsTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/project/sfProjectSendEmailsTask.class.php
+END

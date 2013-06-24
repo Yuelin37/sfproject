@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/autoload
+END
+sfCoreAutoload.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/autoload/sfCoreAutoload.class.php
+END
+sfAutoload.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/autoload/sfAutoload.class.php
+END
+sfAutoloadAgain.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/autoload/sfAutoloadAgain.class.php
+END
+sfSimpleAutoload.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/autoload/sfSimpleAutoload.class.php
+END

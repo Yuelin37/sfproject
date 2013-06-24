@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/simpletest
+END
+SimpleTestFormatterElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/simpletest/SimpleTestFormatterElement.php
+END
+SimpleTestPlainResultFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/simpletest/SimpleTestPlainResultFormatter.php
+END
+SimpleTestResultFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/simpletest/SimpleTestResultFormatter.php
+END
+SimpleTestTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/simpletest/SimpleTestTask.php
+END
+SimpleTestSummaryResultFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/simpletest/SimpleTestSummaryResultFormatter.php
+END
+SimpleTestCountResultFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/simpletest/SimpleTestCountResultFormatter.php
+END

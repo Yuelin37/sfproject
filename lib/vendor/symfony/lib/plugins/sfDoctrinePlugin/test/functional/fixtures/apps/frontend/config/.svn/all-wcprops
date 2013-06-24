@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/frontend/config
+END
+routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/frontend/config/routing.yml
+END
+factories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/frontend/config/factories.yml
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/frontend/config/filters.yml
+END
+frontendConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/frontend/config/frontendConfiguration.class.php
+END
+security.yml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/frontend/config/security.yml
+END
+app.yml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/frontend/config/app.yml
+END
+cache.yml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/frontend/config/cache.yml
+END
+settings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/frontend/config/settings.yml
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/frontend/config/view.yml
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/SettingsPlugin
+END
+SettingTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/SettingsPlugin/SettingTable.class.php
+END
+Setting.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/SettingsPlugin/Setting.class.php
+END

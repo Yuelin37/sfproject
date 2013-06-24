@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/unit/config/fixtures/sfGeneratorConfigHandler
+END
+no_generator_section.yml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/unit/config/fixtures/sfGeneratorConfigHandler/no_generator_section.yml
+END
+root_fields_section.yml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/unit/config/fixtures/sfGeneratorConfigHandler/root_fields_section.yml
+END
+root_edit_section.yml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/unit/config/fixtures/sfGeneratorConfigHandler/root_edit_section.yml
+END
+empty.yml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/unit/config/fixtures/sfGeneratorConfigHandler/empty.yml
+END
+no_generator_class.yml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/unit/config/fixtures/sfGeneratorConfigHandler/no_generator_class.yml
+END
+root_list_section.yml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/unit/config/fixtures/sfGeneratorConfigHandler/root_list_section.yml
+END

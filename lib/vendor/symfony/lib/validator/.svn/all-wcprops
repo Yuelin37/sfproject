@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator
+END
+sfValidatorTime.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatorTime.class.php
+END
+sfValidatorDate.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatorDate.class.php
+END
+sfValidatorDateRange.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatorDateRange.class.php
+END
+sfValidatorUrl.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatorUrl.class.php
+END
+sfValidatorPass.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatorPass.class.php
+END
+sfValidatorString.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatorString.class.php
+END
+sfValidatorBase.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatorBase.class.php
+END
+sfValidatorFromDescription.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatorFromDescription.class.php
+END
+sfValidatorCSRFToken.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatorCSRFToken.class.php
+END
+sfValidatedFile.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatedFile.class.php
+END
+sfValidatorAnd.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatorAnd.class.php
+END
+sfValidatorSchemaFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatorSchemaFilter.class.php
+END
+sfValidatorDateTime.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatorDateTime.class.php
+END
+sfValidatorFile.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatorFile.class.php
+END
+sfValidatorDecorator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatorDecorator.class.php
+END
+sfValidatorEmail.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatorEmail.class.php
+END
+sfValidatorInteger.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatorInteger.class.php
+END
+sfValidatorChoice.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatorChoice.class.php
+END
+sfValidatorSchema.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatorSchema.class.php
+END
+sfValidatorOr.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatorOr.class.php
+END
+sfValidatorCallback.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatorCallback.class.php
+END
+sfValidatorSchemaCompare.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatorSchemaCompare.class.php
+END
+sfValidatorNumber.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatorNumber.class.php
+END
+sfValidatorRegex.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatorRegex.class.php
+END
+sfValidatorError.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatorError.class.php
+END
+sfValidatorBoolean.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatorBoolean.class.php
+END
+sfValidatorSchemaForEach.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatorSchemaForEach.class.php
+END
+sfValidatorErrorSchema.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/validator/sfValidatorErrorSchema.class.php
+END

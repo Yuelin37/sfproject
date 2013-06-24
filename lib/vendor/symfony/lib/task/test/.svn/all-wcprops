@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/test
+END
+sfTestFunctionalTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/test/sfTestFunctionalTask.class.php
+END
+sfTestUnitTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/test/sfTestUnitTask.class.php
+END
+sfTestAllTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/test/sfTestAllTask.class.php
+END
+sfTestCoverageTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/test/sfTestCoverageTask.class.php
+END
+sfLimeHarness.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/test/sfLimeHarness.class.php
+END
+sfTestBaseTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/task/test/sfTestBaseTask.class.php
+END

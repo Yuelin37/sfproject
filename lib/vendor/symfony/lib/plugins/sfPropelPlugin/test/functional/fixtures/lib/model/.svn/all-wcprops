@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model
+END
+Article.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/Article.php
+END
+ArticlePeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/ArticlePeer.php
+END
+Category.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/Category.php
+END
+CategoryPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/CategoryPeer.php
+END
+Attachment.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/Attachment.php
+END
+AttachmentPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/AttachmentPeer.php
+END
+Book.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/Book.php
+END
+Author.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/Author.php
+END
+BookPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/BookPeer.php
+END
+AuthorArticle.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/AuthorArticle.php
+END
+AuthorPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/AuthorPeer.php
+END
+ProductI18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/ProductI18n.php
+END
+AuthorArticlePeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/AuthorArticlePeer.php
+END
+MovieI18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/MovieI18n.php
+END
+ProductI18nPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/ProductI18nPeer.php
+END
+Product.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/Product.php
+END
+MovieI18nPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/MovieI18nPeer.php
+END
+Movie.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/Movie.php
+END
+ProductPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/ProductPeer.php
+END
+MoviePeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model/MoviePeer.php
+END

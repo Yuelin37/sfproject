@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/unit/i18n/fixtures
+END
+messages.fr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/unit/i18n/fixtures/messages.fr.xml
+END
+messages_bis.fr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/unit/i18n/fixtures/messages_bis.fr.xml
+END
+messages.fr_BE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/unit/i18n/fixtures/messages.fr_BE.xml
+END

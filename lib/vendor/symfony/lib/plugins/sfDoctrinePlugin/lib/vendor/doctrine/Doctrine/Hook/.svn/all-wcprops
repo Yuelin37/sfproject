@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Hook
+END
+Integer.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Hook/Integer.php
+END
+Parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Hook/Parser.php
+END
+WordLike.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Hook/WordLike.php
+END
+Equal.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Hook/Equal.php
+END

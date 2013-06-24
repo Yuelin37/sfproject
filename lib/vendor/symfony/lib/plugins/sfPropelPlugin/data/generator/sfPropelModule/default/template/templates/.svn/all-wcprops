@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/default/template/templates
+END
+showSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/default/template/templates/showSuccess.php
+END
+editSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/default/template/templates/editSuccess.php
+END
+indexSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/default/template/templates/indexSuccess.php
+END
+_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/default/template/templates/_form.php
+END
+newSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/default/template/templates/newSuccess.php
+END

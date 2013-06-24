@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/functional/fixtures/config
+END
+propel.ini
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/functional/fixtures/config/propel.ini
+END
+ProjectConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/functional/fixtures/config/ProjectConfiguration.class.php
+END
+databases.yml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/functional/fixtures/config/databases.yml
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/functional/fixtures/config/filters.yml
+END
+properties.ini
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/functional/fixtures/config/properties.ini
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/functional/fixtures/config/view.yml
+END

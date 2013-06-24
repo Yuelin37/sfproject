@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/functional/fixtures/plugins/sfAutoloadPlugin/test/unit
+END
+BarUnitTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/functional/fixtures/plugins/sfAutoloadPlugin/test/unit/BarUnitTest.php
+END
+FooUnitTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/functional/fixtures/plugins/sfAutoloadPlugin/test/unit/FooUnitTest.php
+END

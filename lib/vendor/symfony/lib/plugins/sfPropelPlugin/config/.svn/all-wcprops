@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/config
+END
+installer.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/config/installer.php
+END
+sfPropelPluginConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/config/sfPropelPluginConfiguration.class.php
+END
+autoload.yml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/config/autoload.yml
+END

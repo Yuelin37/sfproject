@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing
+END
+Project.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/Project.php
+END
+ConfigurationException.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/ConfigurationException.php
+END
+TaskContainer.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/TaskContainer.php
+END
+BuildLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/BuildLogger.php
+END
+BuildException.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/BuildException.php
+END
+BuildListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/BuildListener.php
+END
+ProjectComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/ProjectComponent.php
+END
+Task.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/Task.php
+END
+IntrospectionHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/IntrospectionHelper.php
+END
+TaskAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/TaskAdapter.php
+END
+Phing.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/Phing.php
+END
+BuildEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/BuildEvent.php
+END
+RuntimeConfigurable.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/RuntimeConfigurable.php
+END
+Target.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/Target.php
+END
+UnknownElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/UnknownElement.php
+END

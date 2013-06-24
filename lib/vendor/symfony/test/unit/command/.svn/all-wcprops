@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/unit/command
+END
+sfCommandArgumentTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/unit/command/sfCommandArgumentTest.php
+END
+sfCommandOptionSetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/unit/command/sfCommandOptionSetTest.php
+END
+sfCommandManagerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/unit/command/sfCommandManagerTest.php
+END
+sfCommandOptionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/unit/command/sfCommandOptionTest.php
+END
+sfCommandArgumentSetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/test/unit/command/sfCommandArgumentSetTest.php
+END

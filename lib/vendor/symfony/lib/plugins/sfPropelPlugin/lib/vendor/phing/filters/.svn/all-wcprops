@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/filters
+END
+BaseParamFilterReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/filters/BaseParamFilterReader.php
+END
+HeadFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/filters/HeadFilter.php
+END
+XsltFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/filters/XsltFilter.php
+END
+LineContainsRegexp.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/filters/LineContainsRegexp.php
+END
+TabToSpaces.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/filters/TabToSpaces.php
+END
+ReplaceRegexp.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/filters/ReplaceRegexp.php
+END
+ChainableReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/filters/ChainableReader.php
+END
+StripLineBreaks.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/filters/StripLineBreaks.php
+END
+StripLineComments.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/filters/StripLineComments.php
+END
+TidyFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/filters/TidyFilter.php
+END
+TailFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/filters/TailFilter.php
+END
+XincludeFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/filters/XincludeFilter.php
+END
+BaseFilterReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/filters/BaseFilterReader.php
+END
+ExpandProperties.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/filters/ExpandProperties.php
+END
+PrefixLines.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/filters/PrefixLines.php
+END
+ReplaceTokens.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/filters/ReplaceTokens.php
+END
+LineContains.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/filters/LineContains.php
+END
+StripPhpComments.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/filters/StripPhpComments.php
+END
+TranslateGettext.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/filters/TranslateGettext.php
+END
+StripWhitespace.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/filters/StripWhitespace.php
+END

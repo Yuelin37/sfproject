@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/builder/om
+END
+PeerBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/builder/om/PeerBuilder.php
+END
+ObjectBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/builder/om/ObjectBuilder.php
+END
+OMBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/builder/om/OMBuilder.php
+END
+ClassTools.php
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/DailyReport/!svn/ver/4/trunk/DailyReport/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/builder/om/ClassTools.php
+END
