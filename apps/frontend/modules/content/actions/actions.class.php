@@ -25,4 +25,9 @@ class contentActions extends sfActions
   	$today = getdate();
   	$this->hour = $today['hours'];
   }
+  
+  public function executeUpdate($request)
+  {
+  	$this->name = $request->getParameter('name');
+  }
 }
