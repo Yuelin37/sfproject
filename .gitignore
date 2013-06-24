@@ -165,4 +165,3 @@ pip-log.txt
 # symfony
 lib/vendor/symfony/
 catch/
-/cache
