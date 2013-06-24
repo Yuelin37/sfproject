@@ -401,3 +401,191 @@ Jun 24 04:32:20 symfony [info] {sfWebDebugLogger} Factories 119.09 ms (1)
 Jun 24 04:32:20 symfony [info] {sfWebDebugLogger} Action "content/show" 0.08 ms (1)
 Jun 24 04:32:20 symfony [info] {sfWebDebugLogger} View "Success" for "content/show" 63.16 ms (1)
 Jun 24 04:32:20 symfony [info] {sfWebResponse} Send content (30102 o)
+Jun 24 04:39:24 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/update with parameters array (  'module' => 'content',  'action' => 'update',)
+Jun 24 04:39:24 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 04:39:24 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 04:39:24 symfony [info] {contentActions} Call "contentActions->executeUpdate()"
+Jun 24 04:39:24 symfony [err] {sfRenderException} The template "updateSuccess.php" does not exist or is unreadable in "".
+Jun 24 04:39:24 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 24 04:39:24 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 04:39:24 symfony [info] {sfWebDebugLogger} Configuration 19.63 ms (9)
+Jun 24 04:39:24 symfony [info] {sfWebDebugLogger} Factories 41.70 ms (1)
+Jun 24 04:39:24 symfony [info] {sfWebDebugLogger} Action "content/update" 0.08 ms (1)
+Jun 24 04:39:24 symfony [info] {sfWebDebugLogger} View "Success" for "content/update" 91.38 ms (1)
+Jun 24 04:48:53 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/update with parameters array (  'module' => 'content',  'action' => 'update',)
+Jun 24 04:48:54 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 04:48:54 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 04:48:54 symfony [info] {contentActions} Call "contentActions->executeUpdate()"
+Jun 24 04:48:54 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/updateSuccess.php"
+Jun 24 04:48:54 symfony [warning] {sfWebDebugLogger}  Warning at C:\Users\ylyan\workspace\sfproject\lib\vendor\symfony\lib\escaper\sfOutputEscaper.class.php on line 92 (call_user_func() expects parameter 1 to be a valid callback, function 'John Doe' not found or invalid function name)
+Jun 24 04:48:54 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:48:54 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:48:54 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 04:48:54 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 04:48:54 symfony [info] {sfWebDebugLogger} Configuration 18.81 ms (9)
+Jun 24 04:48:54 symfony [info] {sfWebDebugLogger} Factories 41.95 ms (1)
+Jun 24 04:48:54 symfony [info] {sfWebDebugLogger} Action "content/update" 0.08 ms (1)
+Jun 24 04:48:54 symfony [info] {sfWebDebugLogger} View "Success" for "content/update" 155.17 ms (1)
+Jun 24 04:48:54 symfony [info] {sfWebResponse} Send content (30391 o)
+Jun 24 04:49:25 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/update with parameters array (  'module' => 'content',  'action' => 'update',)
+Jun 24 04:49:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 04:49:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 04:49:25 symfony [info] {contentActions} Call "contentActions->executeUpdate()"
+Jun 24 04:49:25 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/updateSuccess.php"
+Jun 24 04:49:25 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:49:25 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:49:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 04:49:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 04:49:25 symfony [info] {sfWebDebugLogger} Configuration 22.70 ms (9)
+Jun 24 04:49:25 symfony [info] {sfWebDebugLogger} Factories 42.51 ms (1)
+Jun 24 04:49:25 symfony [info] {sfWebDebugLogger} Action "content/update" 0.08 ms (1)
+Jun 24 04:49:25 symfony [info] {sfWebDebugLogger} View "Success" for "content/update" 20.43 ms (1)
+Jun 24 04:49:25 symfony [info] {sfWebResponse} Send content (30132 o)
+Jun 24 04:49:43 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/update with parameters array (  'module' => 'content',  'action' => 'update',)
+Jun 24 04:49:43 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 04:49:43 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 04:49:43 symfony [info] {contentActions} Call "contentActions->executeUpdate()"
+Jun 24 04:49:43 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/updateSuccess.php"
+Jun 24 04:49:43 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:49:43 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:49:43 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 04:49:43 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 04:49:43 symfony [info] {sfWebDebugLogger} Configuration 16.17 ms (9)
+Jun 24 04:49:43 symfony [info] {sfWebDebugLogger} Factories 39.46 ms (1)
+Jun 24 04:49:43 symfony [info] {sfWebDebugLogger} Action "content/update" 0.08 ms (1)
+Jun 24 04:49:43 symfony [info] {sfWebDebugLogger} View "Success" for "content/update" 17.37 ms (1)
+Jun 24 04:49:43 symfony [info] {sfWebResponse} Send content (30132 o)
+Jun 24 04:49:50 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/show with parameters array (  'module' => 'content',  'action' => 'show',)
+Jun 24 04:49:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 04:49:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 04:49:50 symfony [info] {contentActions} Call "contentActions->executeShow()"
+Jun 24 04:49:50 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/showSuccess.php"
+Jun 24 04:49:50 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:49:50 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:49:50 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 04:49:50 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 04:49:50 symfony [info] {sfWebDebugLogger} Configuration 22.32 ms (9)
+Jun 24 04:49:50 symfony [info] {sfWebDebugLogger} Factories 41.66 ms (1)
+Jun 24 04:49:50 symfony [info] {sfWebDebugLogger} Action "content/show" 0.08 ms (1)
+Jun 24 04:49:50 symfony [info] {sfWebDebugLogger} View "Success" for "content/show" 20.78 ms (1)
+Jun 24 04:49:50 symfony [info] {sfWebResponse} Send content (30103 o)
+Jun 24 04:49:53 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/update with parameters array (  'module' => 'content',  'action' => 'update',)
+Jun 24 04:49:53 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 04:49:53 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 04:49:53 symfony [info] {contentActions} Call "contentActions->executeUpdate()"
+Jun 24 04:49:53 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/updateSuccess.php"
+Jun 24 04:49:53 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:49:53 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:49:53 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 04:49:53 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 04:49:53 symfony [info] {sfWebDebugLogger} Configuration 22.24 ms (9)
+Jun 24 04:49:53 symfony [info] {sfWebDebugLogger} Factories 41.65 ms (1)
+Jun 24 04:49:53 symfony [info] {sfWebDebugLogger} Action "content/update" 0.11 ms (1)
+Jun 24 04:49:53 symfony [info] {sfWebDebugLogger} View "Success" for "content/update" 20.40 ms (1)
+Jun 24 04:49:53 symfony [info] {sfWebResponse} Send content (30115 o)
+Jun 24 04:50:02 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/shoq with parameters array (  'module' => 'content',  'action' => 'shoq',)
+Jun 24 04:50:02 symfony [info] {sfFrontWebController} Action "content/shoq" does not exist
+Jun 24 04:50:02 symfony [err] {sfError404Exception} Action "content/shoq" does not exist.
+Jun 24 04:50:02 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Jun 24 04:50:02 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 04:50:02 symfony [info] {sfWebDebugLogger} Configuration 9.13 ms (5)
+Jun 24 04:50:02 symfony [info] {sfWebDebugLogger} Factories 41.65 ms (1)
+Jun 24 04:50:06 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/show with parameters array (  'module' => 'content',  'action' => 'show',)
+Jun 24 04:50:06 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 04:50:06 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 04:50:06 symfony [info] {contentActions} Call "contentActions->executeShow()"
+Jun 24 04:50:06 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/showSuccess.php"
+Jun 24 04:50:06 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:50:06 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:50:06 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 04:50:06 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 04:50:06 symfony [info] {sfWebDebugLogger} Configuration 15.32 ms (9)
+Jun 24 04:50:06 symfony [info] {sfWebDebugLogger} Factories 40.45 ms (1)
+Jun 24 04:50:06 symfony [info] {sfWebDebugLogger} Action "content/show" 0.08 ms (1)
+Jun 24 04:50:06 symfony [info] {sfWebDebugLogger} View "Success" for "content/show" 18.44 ms (1)
+Jun 24 04:50:06 symfony [info] {sfWebResponse} Send content (30103 o)
+Jun 24 04:50:08 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/update with parameters array (  'module' => 'content',  'action' => 'update',)
+Jun 24 04:50:08 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 04:50:08 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 04:50:08 symfony [info] {contentActions} Call "contentActions->executeUpdate()"
+Jun 24 04:50:08 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/updateSuccess.php"
+Jun 24 04:50:08 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:50:08 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:50:08 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 04:50:08 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 04:50:08 symfony [info] {sfWebDebugLogger} Configuration 16.28 ms (9)
+Jun 24 04:50:08 symfony [info] {sfWebDebugLogger} Factories 145.66 ms (1)
+Jun 24 04:50:08 symfony [info] {sfWebDebugLogger} Action "content/update" 0.08 ms (1)
+Jun 24 04:50:08 symfony [info] {sfWebDebugLogger} View "Success" for "content/update" 19.08 ms (1)
+Jun 24 04:50:08 symfony [info] {sfWebResponse} Send content (30114 o)
+Jun 24 04:50:21 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/update with parameters array (  'module' => 'content',  'action' => 'update',)
+Jun 24 04:50:21 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 04:50:21 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 04:50:21 symfony [info] {contentActions} Call "contentActions->executeUpdate()"
+Jun 24 04:50:21 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/updateSuccess.php"
+Jun 24 04:50:21 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:50:21 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:50:21 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 04:50:21 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 04:50:21 symfony [info] {sfWebDebugLogger} Configuration 21.80 ms (9)
+Jun 24 04:50:21 symfony [info] {sfWebDebugLogger} Factories 41.82 ms (1)
+Jun 24 04:50:21 symfony [info] {sfWebDebugLogger} Action "content/update" 0.08 ms (1)
+Jun 24 04:50:21 symfony [info] {sfWebDebugLogger} View "Success" for "content/update" 33.93 ms (1)
+Jun 24 04:50:21 symfony [info] {sfWebResponse} Send content (30116 o)
+Jun 24 04:53:36 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/show with parameters array (  'module' => 'content',  'action' => 'show',)
+Jun 24 04:53:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 04:53:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 04:53:36 symfony [info] {contentActions} Call "contentActions->executeShow()"
+Jun 24 04:53:36 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/showSuccess.php"
+Jun 24 04:53:36 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:53:36 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:53:36 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 04:53:36 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 04:53:36 symfony [info] {sfWebDebugLogger} Configuration 20.56 ms (9)
+Jun 24 04:53:36 symfony [info] {sfWebDebugLogger} Factories 41.84 ms (1)
+Jun 24 04:53:36 symfony [info] {sfWebDebugLogger} Action "content/show" 0.08 ms (1)
+Jun 24 04:53:36 symfony [info] {sfWebDebugLogger} View "Success" for "content/show" 20.30 ms (1)
+Jun 24 04:53:36 symfony [info] {sfWebResponse} Send content (30102 o)
+Jun 24 04:53:41 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/update with parameters array (  'module' => 'content',  'action' => 'update',)
+Jun 24 04:53:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 04:53:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 04:53:41 symfony [info] {contentActions} Call "contentActions->executeUpdate()"
+Jun 24 04:53:41 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/updateSuccess.php"
+Jun 24 04:53:41 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:53:41 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:53:41 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 04:53:41 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 04:53:41 symfony [info] {sfWebDebugLogger} Configuration 19.47 ms (9)
+Jun 24 04:53:41 symfony [info] {sfWebDebugLogger} Factories 40.33 ms (1)
+Jun 24 04:53:41 symfony [info] {sfWebDebugLogger} Action "content/update" 0.07 ms (1)
+Jun 24 04:53:41 symfony [info] {sfWebDebugLogger} View "Success" for "content/update" 19.16 ms (1)
+Jun 24 04:53:41 symfony [info] {sfWebResponse} Send content (30069 o)
+Jun 24 04:55:05 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/update with parameters array (  'module' => 'content',  'action' => 'update',)
+Jun 24 04:55:05 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 04:55:05 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 04:55:05 symfony [info] {contentActions} Call "contentActions->executeUpdate()"
+Jun 24 04:55:05 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/updateSuccess.php"
+Jun 24 04:55:05 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:55:05 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 04:55:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 04:55:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 04:55:05 symfony [info] {sfWebDebugLogger} Configuration 22.36 ms (9)
+Jun 24 04:55:05 symfony [info] {sfWebDebugLogger} Factories 44.97 ms (1)
+Jun 24 04:55:05 symfony [info] {sfWebDebugLogger} Action "content/update" 0.09 ms (1)
+Jun 24 04:55:05 symfony [info] {sfWebDebugLogger} View "Success" for "content/update" 21.17 ms (1)
+Jun 24 04:55:05 symfony [info] {sfWebResponse} Send content (30146 o)
+Jun 24 05:08:06 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/update with parameters array (  'module' => 'content',  'action' => 'update',)
+Jun 24 05:08:06 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 24 05:08:06 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 24 05:08:06 symfony [info] {contentActions} Call "contentActions->executeUpdate()"
+Jun 24 05:08:06 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\modules/content/templates/updateSuccess.php"
+Jun 24 05:08:06 symfony [warning] {sfWebDebugLogger}  Warning at C:\Users\ylyan\workspace\sfproject\lib\vendor\symfony\lib\escaper\sfOutputEscaper.class.php on line 92 (call_user_func() expects parameter 1 to be a valid callback, function 'joe' not found or invalid function name)
+Jun 24 05:08:06 symfony [info] {sfPHPView} Decorate content with "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 05:08:06 symfony [info] {sfPHPView} Render "C:\Users\ylyan\workspace\sfproject\apps\frontend\templates/layout.php"
+Jun 24 05:08:06 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 24 05:08:06 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 24 05:08:06 symfony [info] {sfWebDebugLogger} Configuration 18.77 ms (9)
+Jun 24 05:08:06 symfony [info] {sfWebDebugLogger} Factories 41.32 ms (1)
+Jun 24 05:08:06 symfony [info] {sfWebDebugLogger} Action "content/update" 0.15 ms (1)
+Jun 24 05:08:06 symfony [info] {sfWebDebugLogger} View "Success" for "content/update" 28.55 ms (1)
+Jun 24 05:08:06 symfony [info] {sfWebResponse} Send content (30402 o)
