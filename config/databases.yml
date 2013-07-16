@@ -2,6 +2,6 @@ all:
   doctrine:
     class: sfDoctrineDatabase
     param:
-      dsn: 'mysql:host=localhost;dbname=weekly_report_beta'
+      dsn: 'mysql:host=localhost;dbname=blog_dev'
       username: root
       password: root

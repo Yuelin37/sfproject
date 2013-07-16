@@ -1,0 +1,26 @@
+Article:
+  actAs: [Timestampable]
+  tableName: blog_article
+  columns:
+    id:
+      type: integer
+      primary: true
+      autoincrement: true
+    title:   string(255)
+    content: clob
+ 
+Comment:
+  actAs: [Timestampable]
+  tableName: blog_comment
+  columns:
+    id:
+      type: integer
+      primary: true
+      autoincrement: true
+    article_id: integer
+    author: string(255)
+    content: clob
+  relations:
+    Article:
+      onDelete: CASCADE
+      foreignAlias: Comments
