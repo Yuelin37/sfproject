@@ -6,4 +6,5 @@
   <input type="text" name="nickname" id="nickname" value="" />
   <input type="submit" value="Ok" />
   <?php echo link_to('I never say my name', 'content/FirstPage?name=anonymous') ?>
+  <?php echo mail_to('myaddress@mydomain.com', 'contact', 'encode=true') ?>
 </form>
