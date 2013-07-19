@@ -99,7 +99,6 @@ publish
 # Others
 [Bb]in
 [Oo]bj
-sql
 TestResults
 *.Cache
 ClientBin
@@ -164,4 +163,6 @@ pip-log.txt
 
 # symfony
 lib/vendor/symfony/
-catch/
+cache/
+
+.gitingnore
